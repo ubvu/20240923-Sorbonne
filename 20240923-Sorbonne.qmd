@@ -22,7 +22,7 @@ format:
 keep-tex: true
 format-links:
   - pdf
-  - docx
+# - docx
 ---
 
 In 2023, psychological research at a consortium of eight Dutch universities was evaluated following the Strategy Evaluation Protocol (SEP). The SEP lays out the procedure and requirements to evaluate research at Dutch public institutions, similar to the Research Excellence Framework in the UK. The research intelligence (RI) team at the Vrije Universiteit Amsterdam provided support in the preparation of the joint assessment. 

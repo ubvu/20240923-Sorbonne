@@ -1,0 +1,9 @@
+20240923-Sorbonne_files/
+*.html
+*.pdf
+*.typ
+*.tex
+*.docx
+.DS_Store
+
+

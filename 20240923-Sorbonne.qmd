@@ -1,0 +1,46 @@
+---
+title: "Using open research information<br/> for research assessment in the Netherlands"
+subtitle: "Open enough to get a foot in the door"
+# author: "[Matthijs de Zwaan](mailto:m.c.de.zwaan@vu.nl)"
+author:
+  - name: Matthijs de Zwaan
+    orcid: 0000-0002-6983-2118
+    email: m.c.de.zwaan@vu.nl
+    affiliation: 
+      - name: Vrije Universiteit Amsterdam
+        url: https://www.vu.nl/
+lang: en
+date: last-modified
+date-format: "D MMMM YYYY"
+format: 
+  html: default
+  docx: default
+  pdf:
+    pdf-engine: lualatex
+  # typst: 
+  #   output-file: 20240923-Sorbonne-typst.pdf
+keep-tex: true
+format-links:
+  - pdf
+  - docx
+---
+
+In 2023, psychological research at a consortium of eight Dutch universities was evaluated following the Strategy Evaluation Protocol (SEP). The SEP lays out the procedure and requirements to evaluate research at Dutch public institutions, similar to the Research Excellence Framework in the UK. The research intelligence (RI) team at the Vrije Universiteit Amsterdam provided support in the preparation of the joint assessment. 
+
+The consortium, following a proposal from the RI team, decided to combine closed data from local research information systems with open metadata from OpenAlex for a bibliometric analysis of its research output. In this presentation, I will describe why and how we came to this decision; what problems we encountered and how we solved them (or didn't); present some of the analyses we did; and discuss the reactions from the consortium and the assessment committee to the analysis, all focusing on the use of open data. 
+
+This case shows how using open research information need not be an all-or-nothing decision. By combining open and closed data, it is possible to manage discussions about reliability and quality of new open data sources, while at the same familiarising a new group of people with these sources and the benefits that they can bring.
+
+<!-- 
+-	SEP uitleggen
+-	Openalex op ons advies
+-	Problemen verder uitleggen
+-	Subtitle aanpassen naar bijv 'stap voor stap naar open data'
+
+It can be a difficult process to introduce new sources of data, but moving step by step can keep the momentum going.
+
+While having good data available is of course always important, avoiding discussions about data quality is particularly relevant in the case of formal research assessments, which are time-consuming and can have important consequences for the unit under consideration. In this presentation, we describe the use of open research information in one such assessment.
+
+
+, present some of the analyses that we were able to do, and discuss how the analyses were received by the consortium and the assessment committee.  
+-->
